@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "60dfb00b0ab65c026152b002"
+  },
+  "author": "Anonymous",
+  "text": "Great movie, I recommend it!",
+  "createdAt": {
+    "$date": "2023-06-30T13:02:29.863Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T13:03:52.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "649f18d974445ddd137aee48"
+  },
+  "author": "Anonymous",
+  "text": "Nice movie",
+  "createdAt": {
+    "$date": "2023-06-30T18:03:05.780Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T18:03:05.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649f2c33824fc560eb3314c4"
+  },
+  "author": "Anonymous",
+  "text": "My favourite movie!!!♥",
+  "createdAt": {
+    "$date": "2023-06-30T19:25:39.748Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T19:25:39.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649f2c6f824fc560eb3314d0"
+  },
+  "author": "Anonymous",
+  "text": "I am impressed",
+  "createdAt": {
+    "$date": "2023-06-30T19:26:39.183Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T19:26:39.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649f2c8c824fc560eb3314e2"
+  },
+  "author": "Anonymous",
+  "text": "The plot is very amazing",
+  "createdAt": {
+    "$date": "2023-06-30T19:27:08.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T19:27:08.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649f2ca3824fc560eb3314ee"
+  },
+  "author": "Anonymous",
+  "text": "A very intense plot, it was scary, but interesting!",
+  "createdAt": {
+    "$date": "2023-06-30T19:27:31.357Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T19:27:31.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649f2cee824fc560eb3314fa"
+  },
+  "author": "Anonymous",
+  "text": "It looks pretty good!",
+  "createdAt": {
+    "$date": "2023-06-30T19:28:46.386Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T19:28:46.386Z"
+  },
+  "__v": 0
+}]
