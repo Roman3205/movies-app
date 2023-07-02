@@ -76,7 +76,10 @@ app.get('/top', async function(req,res) {
 app.get('/movie', async function(req,res) {
     let id = req.query.id
 
-    let movie = await Movie.findOne({_id: id}).populate('reviews')
+    let movie = await Movie.findOne({_id: id}).populate({
+        path: 'reviews',
+        options: {sort: {createdAt: -1}}
+    })
     
     if(!movie) {
         res.status(404).send('Error')
